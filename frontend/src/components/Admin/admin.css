@@ -1,0 +1,51 @@
+.card-container {
+	display: flex;
+	flex-direction: row;
+}
+
+.table-container {
+	display: flex;
+	justify-content: center; 
+}
+
+.table-container table {
+  border-collapse: collapse;
+  width: 100%; 
+  border: 1px solid #d5d6d7;
+}
+
+.table-container th, .table-container td {
+  text-align: center;
+  padding: 8px;
+  border-bottom: 1px solid #d5d6d7;
+}
+
+.table-container th {
+  background-color: #f9fafb;
+  color: #707275;
+  padding: 15px;
+}
+
+.table-container td {
+	padding: 20px 0;
+	color: #24262d;
+	background-color: white;
+}
+
+.table-container button {
+  text-align: center;
+  outline: none;
+  border: none;
+  color: white;
+  margin: 0 10px;
+  background-color: #29BB89;
+  padding: 8px;
+  font-size: 14px;
+  border-radius: 3px;
+  width: 100px;
+}
+
+.table-container .nameButton {
+  background-color: transparent;
+  color: #707275;
+}

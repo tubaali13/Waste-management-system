@@ -1,0 +1,35 @@
+.profile{
+  background: #fff;
+  padding: 30px 25px;
+ 
+}
+
+.profile .info h3{
+  margin-bottom: 15px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #e0e0e0;
+  color: #353c4e;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+.profile .info_data{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.profile .info_data .data {
+  width: 33.33%;
+}
+
+.profile .info_data .data h4 {
+    color: #353c4e;
+    margin-bottom: 5px;
+}
+
+.profile .info_data .data p {
+  font-size: 15px;
+  margin-bottom: 10px;
+  color: #484848;
+}

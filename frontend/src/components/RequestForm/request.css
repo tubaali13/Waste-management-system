@@ -1,0 +1,34 @@
+.request {
+	padding: 30px 25px;
+}
+.request h3 {
+	margin-bottom: 15px;
+	padding-bottom: 5px;
+	color: #353c4e;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+}
+
+.request-form input[type=text] {
+	font-family: "Roboto", sans-serif;
+	outline: 0;
+	background: #f2f2f2;
+	width: 50%;
+	border: 0;
+	margin: 0 0 15px;
+    padding: 15px;
+	box-sizing: border-box;
+	font-size: 16px;
+	display: block;
+}
+
+.request-form button {
+	outline: none;
+	border: none;
+	margin: 0 0 15px;
+	width: 20%; 
+	color: white;
+	background-color: #29BB89;
+	padding: 10px 0;
+	font-size: 17px;
+}

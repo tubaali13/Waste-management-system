@@ -1,0 +1,32 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  padding: 0 10px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);;
+  color: #29BB89;
+  background-color: white;
+  z-index: 1000;
+}
+
+.navbar button {
+	text-decoration: none;
+	color: #29BB89;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+
+
+nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.nav-item {
+  font-size: 20px; 
+  padding: 0 5px;
+}

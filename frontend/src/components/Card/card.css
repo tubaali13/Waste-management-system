@@ -1,0 +1,46 @@
+
+.card {
+	border: 1px solid #d5d6d7;
+	border-radius: 10px;
+	width: 33.33%;
+	margin: 15px;
+	text-align: center;
+	background-color: white;
+}
+
+.card p {
+	font-size: 18px;
+	color: #4c4f52;
+}
+
+.card h2 {
+    color: #24262d;
+}
+
+.card i {
+	font-size: 35px;
+	margin-top: 10px;
+	padding: 10px;
+	border-radius: 50px;
+}
+
+.waste {
+	color: #ff5a1f;
+	background-color: #feecdc;
+}
+
+.bio-waste {
+	color: #0e9f6e;
+	background-color: #def7ec;
+}
+
+.nonbio-waste {
+	color: #3f83f8;
+	background-color: #e1effe;
+}
+
+.users {
+	color: #0694a2;
+	background-color: #d5f5f6;
+}
+

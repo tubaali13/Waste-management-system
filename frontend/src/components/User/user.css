@@ -1,0 +1,13 @@
+.user-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 70vh;
+}
+
+.user-heading{
+	font-size: 4em;
+	text-align: center;
+	color:  #64bc894d;
+	width: 50%;
+}
